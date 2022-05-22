@@ -31,7 +31,7 @@ function Cards() {
       />
       <br />
       <button className="form__button btn">Get in touch</button>
-      <hr className="card__hr" />
+      <hr className="card__borderBottom" />
     </div>
   );
 }
